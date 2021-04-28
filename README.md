@@ -56,6 +56,26 @@ Here are some ideas to get you started:
 本周编码时长
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+
+```text
+Week: 20 April, 2021 - 27 April, 2021
+
+
+⌚︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+No Activity Tracked This Week
+
+🔥 常用编辑器: 
+No Activity Tracked This Week
+
+💻 操作系统: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 
