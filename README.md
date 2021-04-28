@@ -64,19 +64,19 @@ Here are some ideas to get you started:
 <summary>😇 My Github Stats:</summary>
 
 <br/>
+<br/>
 
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Tops Language">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdoitlee&layout=compact" />
+ </a>
+ 
+<br/>
+<br/>
 
 <a href="https://github.com/justdoitlee/justdoitlee">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=justdoitlee&show_icons=true" />
-
 </a>
-<br/>
-<br/>
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Tops Language">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdoitlee&layout=compact" />
-
- </a>
 
 
 <br/>
