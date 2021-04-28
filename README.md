@@ -56,36 +56,6 @@ Here are some ideas to get you started:
 本周编码时长
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-🌆 Daytime    57 commits     ███████████████████████░░   91.94% 
-🌃 Evening    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 
