@@ -83,14 +83,15 @@ Mac                      44 mins             ███████████�
 
 <details open>
 <summary>😇 My Github Stats:</summary>
-
+<!-- 
 <br/>
 <br/>
 
  <a href="https://github.com/anuraghazra/github-readme-stats" title="Tops Language">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdoitlee&layout=compact" />
  </a>
- 
+--> 
+
 <br/>
 <br/>
 
