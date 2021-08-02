@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 July, 2021 - 31 July, 2021
+Week: 25 July, 2021 - 01 August, 2021
 
 
 ⌚︎ 时区: Asia/Shanghai
