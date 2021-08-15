@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://justdoitlee.github.io/"><img src="https://img.shields.io/badge/blog-black" alt="blog"></a>
 <br/><br/> 
 
-- 🔭 I’m currently working on `叶子科技` in China.
+- 🔭 I’m currently working on `yeahzee` in China.
 - ⚙️ I’m active in Java.
 - 👋 Blog site [justdoitlee](https://justdoitlee.github.io)
 
