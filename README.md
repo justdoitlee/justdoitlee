@@ -57,20 +57,19 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 04 February, 2022
+Week: 29 January, 2022 - 05 February, 2022
 
 
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Java                     0 secs              █████████████████████████   99.7% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+No Activity Tracked This Week
 
 🔥 常用编辑器: 
-IntelliJ                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 操作系统: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
