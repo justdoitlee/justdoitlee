@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2022 - 17 October, 2022
+Week: 11 October, 2022 - 18 October, 2022
 
 
 ⌚︎ 时区: Asia/Shanghai
