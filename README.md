@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2022 - 30 December, 2022
+Week: 24 December, 2022 - 31 December, 2022
 
 
 ⌚︎ 时区: Asia/Shanghai
