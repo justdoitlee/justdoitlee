@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 July, 2023 - 05 August, 2023
+Week: 30 July, 2023 - 06 August, 2023
 
 
 ⌚︎ 时区: Asia/Shanghai
