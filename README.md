@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2023 - 09 October, 2023
+Week: 03 October, 2023 - 10 October, 2023
 
 
 ⌚︎ 时区: Asia/Shanghai
