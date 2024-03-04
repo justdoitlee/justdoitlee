@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 February, 2024 - 02 March, 2024
+Week: 25 February, 2024 - 03 March, 2024
 
 
 ⌚︎ 时区: Asia/Shanghai
