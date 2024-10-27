@@ -57,20 +57,19 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2024 - 25 October, 2024
+Week: 19 October, 2024 - 26 October, 2024
 
 
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Java                     0 secs              █████████████████░░░░░░░░   69.82% 
-Other                    0 secs              ███████░░░░░░░░░░░░░░░░░░   30.18%
+No Activity Tracked This Week
 
 🔥 常用编辑器: 
-IntelliJ IDEA            1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 操作系统: 
-Mac                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
