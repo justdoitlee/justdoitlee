@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 July, 2025 - 04 August, 2025
+Week: 29 July, 2025 - 05 August, 2025
 
 
 ⌚︎ 时区: Asia/Shanghai
