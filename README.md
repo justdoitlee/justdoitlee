@@ -57,19 +57,19 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2025 - 19 December, 2025
+Week: 13 December, 2025 - 20 December, 2025
 
 
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Java                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 常用编辑器: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 操作系统: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
