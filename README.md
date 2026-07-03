@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 June, 2026 - 01 July, 2026
+Week: 25 June, 2026 - 02 July, 2026
 
 
 ⌚︎ 时区: Asia/Shanghai
